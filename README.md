@@ -1,0 +1,1 @@
+# min-rails-docker
